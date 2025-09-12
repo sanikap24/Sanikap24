@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikap24&label=Profile%20views&color=0e75b6&style=flat" alt="sanikap24" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/sanikap24](https://github.com/sanikap24)
+
+- 💬 Ask me about **java, oracle SQL,**
+
 - 📫 How to reach me **sanikapawar2804@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
