@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanikap24](https://github.com/sanikap24)
 
-- 💬 Ask me about **java, oracle SQL,**
+- 💬 Ask me about **java, oracle SQL**
 
 - 📫 How to reach me **sanikapawar2804@gmail.com**
 
